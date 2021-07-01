@@ -1,0 +1,31 @@
+body{
+    background-image: url(../img/dali-3.jpg);
+    width: 100%;
+    background-size: cover;
+}
+ #dali{
+    margin-left: 27em;
+    margin-top: 14em
+ }
+
+ #senha{
+    background-color: #4F4F4F;
+ }
+
+ #email{
+    background-color: #4F4F4F;
+ }
+
+ @media (max-width: 768px){
+    body{
+        background-image: url(../img/dali-3.jpg);
+        width: 100%;
+        background-size: auto;
+    }
+    
+    #dali {
+    margin-left: 0;
+    margin-top: 14em
+     }
+     
+ }
